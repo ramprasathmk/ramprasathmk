@@ -1,10 +1,11 @@
 # Hi there 👋, I'm Ramprasath MK
 
-### Fullstack Developer | B.Tech IT Student at AAMEC
+### Fullstack Developer
 
+[aamec]: https://www.aamec.edu.in/
 
 ## 🚀 About Me
-I'm a passionate Fullstack Developer with experience in building web applications using modern technologies. Currently, I am pursuing my B.Tech in Information Technology at AAMEC and am always eager to learn and experiment with new tools and technologies.
+I'm a passionate Fullstack Developer with experience in building web applications using modern technologies. Currently, I am pursuing my Bachelor's in Information Technology at [**AAMEC**][aamec] and am always eager to learn and experiment with new tools and technologies.
 
 
 ## 🛠 Tools I Use
