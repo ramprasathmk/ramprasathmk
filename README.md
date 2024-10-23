@@ -11,12 +11,6 @@ I'm a passionate Fullstack Developer with experience in building web application
   For more Icons, refer the link: `https://github.com/inttter/md-badges`
  -->
 
-## 🛠 Tools I Use
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-F07010?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
-
 
 ## 💻 Professional Skillset
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -30,12 +24,16 @@ I'm a passionate Fullstack Developer with experience in building web application
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 
-## 🖥️ IDEs I Use
+## 🛠 Tools I Use
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-F07010?logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 [![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
 [![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-white?logo=pycharm&logoColor=000)](#)
 
 
 ## 💬 My Favorite Quotes
@@ -79,8 +77,15 @@ I'm a passionate Fullstack Developer with experience in building web application
 - [![Repo](https://img.shields.io/badge/-Software_Personnel_Management_System-181717?logo=github&logoColor=white)](https://github.com/ramprasathmk/Software-Personnel-Management-System)
 
 
-## 🧩 LeetCode Problems Solved
-[![LeetCode](https://img.shields.io/badge/-LeetCode_Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/ramprasathmk/)
+## 🧩 LeetCode Stats
+<!-- [![LeetCode](https://img.shields.io/badge/-LeetCode_Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/ramprasathmk/) -->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ramprasathmk?ext=contest&theme=dark)](https://leetcode.com/ramprasathmk)
+
+
+## 🎲 GitHub Stats
+[![Ramprasath MK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=dark&show_icons=true&&hide=issues,contribs)](#)
+
+[![Ramprasath MK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=react-dark)](https://github.com/ramprasathmk/github-readme-activity-graph)
 
 
 ## 🤝 Stay Connected Via
