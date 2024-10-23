@@ -46,7 +46,7 @@ I'm a passionate Fullstack Developer with experience in building web application
 
 
 ## 🌞 Daily Routine
-- Wake → Eat → Learn → Code → Sleep
+- `Wake` → `Eat` → `Learn` → `Code` → `Sleep`
 
 
 ## 📅 Days I Code
