@@ -7,29 +7,35 @@
 ## 🚀 About Me
 I'm a passionate Fullstack Developer with experience in building web applications using modern technologies. Currently, I am pursuing my Bachelor's in Information Technology at [**AAMEC**][aamec] and am always eager to learn and experiment with new tools and technologies.
 
+<!-- 
+  For more Icons, refer the link: `https://github.com/inttter/md-badges`
+ -->
 
 ## 🛠 Tools I Use
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-F07010?logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Windows 11](https://img.shields.io/badge/-Windows_11-0078D6?logo=windows&logoColor=white)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 
 ## 💻 Professional Skillset
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
 
 ## 🖥️ IDEs I Use
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
-![Eclipse IDE](https://img.shields.io/badge/-Eclipse_IDE-2C2255?logo=eclipse&logoColor=white)
+[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
 
 
 ## 💬 My Favorite Quotes
@@ -48,23 +54,10 @@ I'm a passionate Fullstack Developer with experience in building web application
 ## 📅 Days I Code
 ![GitHub Activity](https://img.shields.io/badge/-Check_my_Activity-181717?logo=github&logoColor=white&link=https://github.com/ramprasathmk)
 
-<!--
-## 🎨 IDE Themes I Use
-- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
-  - ![Cyperpink](https://marketplace.visualstudio.com/items?itemName=Cyberpink.cyberpink-theme)
-  - ![Tokyo Dark Theme](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
-  - ![Firefox Quantum Theme](https://marketplace.visualstudio.com/items?itemName=beastdestroyer.firefox-quantum-themes)
-  - ![OwlDarker Theme With Italics](https://marketplace.visualstudio.com/items?itemName=OwlDarkerTheme.owldarker-theme)
-  - ![Aura Theme](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
-  - ![GitHub Dark](https://img.shields.io/badge/-GitHub_Dark_Themes-181717?logo=github&logoColor=white)
-- ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
-  - ![Dark Purple Theme](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme)
-  - ![Tokyo Dark Theme](https://plugins.jetbrains.com/plugin/24455-tokyo-dark-theme)
-  - ![One Dark Theme](https://plugins.jetbrains.com/plugin/11938-one-dark-theme) -->
 
 ## 🎨 IDE Themes I Use
 
-- ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+- [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
   - [![Cyberpink](https://img.shields.io/badge/Cyberpink-%23ff69b4?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=Cyberpink.cyberpink-theme)
   - [![Tokyo Dark Theme](https://img.shields.io/badge/Tokyo%20Dark%20Theme-%231f1f1f?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=enkia.tokyo-night)
   - [![Firefox Quantum Theme](https://img.shields.io/badge/Firefox%20Quantum%20Theme-%23ff7139?logo=mozilla&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=beastdestroyer.firefox-quantum-themes)
@@ -72,7 +65,7 @@ I'm a passionate Fullstack Developer with experience in building web application
   - [![Aura Theme](https://img.shields.io/badge/Aura%20Theme-%234b0082?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=DaltonMenezes.aura-theme)
   - [![GitHub Dark](https://img.shields.io/badge/GitHub%20Dark%20Themes-%23181717?logo=github&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
   
-- ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?logo=pycharm&logoColor=white)
+- [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
   - [![Dark Purple Theme](https://img.shields.io/badge/Dark%20Purple%20Theme-%235e005e?logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme)
   - [![Tokyo Dark Theme](https://img.shields.io/badge/Tokyo%20Dark%20Theme-%231f1f1f?logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/plugin/24455-tokyo-dark-theme)
   - [![One Dark Theme](https://img.shields.io/badge/One%20Dark%20Theme-%23282828?logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
