@@ -5,35 +5,9 @@
 [aamec]: https://www.aamec.edu.in/
 
 ## 🚀 About Me
-I'm a passionate Fullstack Developer with experience in building web applications using modern technologies. Currently, I am pursuing my Bachelor's in Information Technology at [**AAMEC**][aamec] and am always eager to learn and experiment with new tools and technologies.
-
-<!-- 
-  For more Icons, refer the link: `https://github.com/inttter/md-badges`
- -->
-
-
-## 💻 Professional Skillset
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-
-
-## 🛠 Tools I Use
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-F07010?logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
-[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
-[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
-[![PyCharm](https://img.shields.io/badge/PyCharm-white?logo=pycharm&logoColor=000)](#)
+- I'm a passionate Fullstack Developer with experience in building web applications using modern technologies. 
+- Currently, I am pursuing my Bachelor's in **Information Technology** at [**AAMEC**][aamec] 
+- I am always eager to learn and experiment with new tools and technologies.
 
 
 ## 💬 My Favorite Quotes
@@ -45,15 +19,44 @@ I'm a passionate Fullstack Developer with experience in building web application
 - "To do your part let's stay apart" — *Suriya U* ([GitHub](https://github.com/USuriya))
 
 
-## 🌞 Daily Routine
-- `Wake` → `Eat` → `Learn` → `Code` → `Sleep`
+<!-- 
+  For more Icons, refer the link: `https://github.com/inttter/md-badges`
+ -->
+
+
+## 💻 Professional Skillset
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-%23ED8B00?logo=openjdk&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+
+
+## 🛠 Tools I Use
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub Desktop](https://img.shields.io/badge/GitHub_Desktop-F07010?logo=github&logoColor=white&style=for-the-badge)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white&style=for-the-badge)
+[![Python IDLE](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff&style=for-the-badge)](#)
+[![Sublime Text](https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important&style=for-the-badge)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white&style=for-the-badge)](#)
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white&style=for-the-badge)](#)
+[![PyCharm](https://img.shields.io/badge/PyCharm-white?logo=pycharm&logoColor=000&style=for-the-badge)](#)
+
+
+<!-- ## 🌞 Daily Routine
+- `Wake` → `Eat` → `Learn` → `Code` → `Sleep` -->
 
 
 ## 📅 Days I Code
 ![GitHub Activity](https://img.shields.io/badge/-Check_my_Activity-181717?logo=github&logoColor=white&link=https://github.com/ramprasathmk)
 
 
-## 🎨 IDE Themes I Use
+<!-- ## 🎨 IDE Themes I Use
 
 - [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
   - [![Cyberpink](https://img.shields.io/badge/Cyberpink-%23ff69b4?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=Cyberpink.cyberpink-theme)
@@ -66,7 +69,7 @@ I'm a passionate Fullstack Developer with experience in building web application
 - [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
   - [![Dark Purple Theme](https://img.shields.io/badge/Dark%20Purple%20Theme-%235e005e?logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/plugin/12100-dark-purple-theme)
   - [![Tokyo Dark Theme](https://img.shields.io/badge/Tokyo%20Dark%20Theme-%231f1f1f?logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/plugin/24455-tokyo-dark-theme)
-  - [![One Dark Theme](https://img.shields.io/badge/One%20Dark%20Theme-%23282828?logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/plugin/11938-one-dark-theme)
+  - [![One Dark Theme](https://img.shields.io/badge/One%20Dark%20Theme-%23282828?logo=jetbrains&logoColor=white)](https://plugins.jetbrains.com/plugin/11938-one-dark-theme) -->
 
 
 ## 👨‍💻 Projects Created
@@ -77,22 +80,22 @@ I'm a passionate Fullstack Developer with experience in building web application
 - [![Repo](https://img.shields.io/badge/-Software_Personnel_Management_System-181717?logo=github&logoColor=white)](https://github.com/ramprasathmk/Software-Personnel-Management-System)
 
 
-## 🧩 LeetCode Stats
-<!-- [![LeetCode](https://img.shields.io/badge/-LeetCode_Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/ramprasathmk/) -->
-[![Leetcode Stats](https://leetcard.jacoblin.cool/ramprasathmk?ext=contest&theme=dark)](https://leetcode.com/ramprasathmk)
+## 🧩 My LeetCode Stats
+<!-- [![LeetCode Profile](https://img.shields.io/badge/-LeetCode_Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/ramprasathmk/) <br/> -->
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ramprasathmk?ext=contest&theme=white)](https://leetcode.com/ramprasathmk)
 
 
-## 🎲 GitHub Stats
-[![Ramprasath MK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=dark&show_icons=true&&hide=issues,contribs)](#)
+## 🎲 My GitHub Stats
+[![Ramprasath MK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=white&show_icons=true&&hide=issues,contribs)](#)
 
-[![Ramprasath MK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=react-dark)](https://github.com/ramprasathmk/github-readme-activity-graph)
+[![Ramprasath MK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=dark)](https://github.com/ramprasathmk/github-readme-activity-graph)
 
 
 ## 🤝 Stay Connected Via
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/ramprasathmk)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/ramprasathmk)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramprasathmk053)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/ramprasathmk_)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ramprasathmk)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://x.com/ramprasathmk)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ramprasathmk053)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://instagram.com/ramprasathmk_)
 
 
 ## 😃 Show your support
