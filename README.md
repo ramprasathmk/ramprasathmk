@@ -54,8 +54,7 @@
 
 
 ## 🧩 My LeetCode Stats
-<!-- [![LeetCode Profile](https://img.shields.io/badge/-LeetCode_Profile-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/ramprasathmk/) <br/> -->
-![Leetcode Stats](https://leetcard.jacoblin.cool/ramprasathmk?ext=contest&theme=dark)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/ramprasathmk?ext=contest&theme=dark)](https://leetcode.com/u/ramprasathmk/)
 
 
 ## 🎲 My GitHub Stats
@@ -64,17 +63,17 @@
 ![Ramprasath MK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=react-dark)
 
 
-## 🤝 Stay Connected Via
+## 🔗 Stay Connected Via
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ramprasathmk)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/ramprasathmk)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramprasathmk053)
 
 
-## 😃 Show your support
+## 🤝 Show your support
 
 Thanks for visiting my profile! Feel free to explore [my repositories](https://github.com/ramprasathmk?tab=repositories) and ❤️ connect with me!
 
-<a href="https://www.buymeacoffee.com/ramprasathmk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" height= "60px" width= "217px" ></a>
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
 
 <!---
 ramprasathmk/ramprasathmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
