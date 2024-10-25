@@ -65,8 +65,8 @@
 
 ## 🔗 Stay Connected Via
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ramprasathmk)
-[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/ramprasathmk)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramprasathmk053)
+[![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/ramprasathmk)
 
 
 ## 🤝 Show your support
