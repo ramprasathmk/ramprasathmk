@@ -62,7 +62,7 @@
 
 Thanks for visiting my profile! Feel free to explore [my repositories](https://github.com/ramprasathmk?tab=repositories) and ❤️ connect with me!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](Buy Me A Coffee)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
 
 <!---
 ramprasathmk/ramprasathmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
