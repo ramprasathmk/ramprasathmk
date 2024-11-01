@@ -1,24 +1,13 @@
 # Hi there 👋, I'm Ramprasath MK
 
-[aamec]: https://www.aamec.edu.in/
+[AAMEC]: https://www.aamec.edu.in/
 
 ## 🚀 About Me
-- I'm currently pursuing my Bachelor's in **Information Technology** at [**AAMEC**][aamec]. 🎓
+- I'm currently pursuing my Bachelor's in **Information Technology** at [**AAMEC**][AAMEC]. 🎓
 - I'm a passionate Fullstack Developer with experience (intermediate) in building web applications using modern technologies. 💡
 - I'm always eager to learn and experiment with new tools and technologies. ✨
 
-<!--
-## 💬 Quotes
-- "Error" — **Universal Truth**
-- "Time is an illusion." —  *Albert Einstein*
-- "If you want to crack the system, first understand the system" — [*Pc_Doc*](https://youtube.com/A2DChannel)
-- "Plant Your Life." — *Raja Guru* (2021 pass senior)
-- "Move the pawn ♟ towards the goal in silence" —  [*Shiyam P*](https://github.com/Shiyam-P/)
-- "Speak after the checkmates to your opponents, as in chess."
-- "To do your part let's stay apart" —  [*Suriya U*](https://github.com/USuriya/)
- 
-        For more Icons, refer this link: `https://github.com/inttter/md-badges`
- -->
+<!-- For more Icons, refer this link: `https://github.com/inttter/md-badges` -->
 
 
 ## 💻 Professional Skillset
@@ -63,7 +52,7 @@
 ![Ramprasath MK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=react-dark)
 
 
-## 🔗 Stay Connected Via
+## 🔗 Stay Tuned
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ramprasathmk)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramprasathmk053)
 [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ramprasathmk)
@@ -73,7 +62,7 @@
 
 Thanks for visiting my profile! Feel free to explore [my repositories](https://github.com/ramprasathmk?tab=repositories) and ❤️ connect with me!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](Buy Me A Coffee)
 
 <!---
 ramprasathmk/ramprasathmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
