@@ -35,7 +35,7 @@
 
 
 ## 👨‍💻 Projects Created
-- [![Repo](https://img.shields.io/badge/-Automatic_Attendance_System_for_Face_Recognition-181717?logo=github&logoColor=white)](https://github.com/ramprasathmk/Automatic-Attendance-System-for-Face-Recognition)
+- [![Repo](https://img.shields.io/badge/-Automatic_Attendance_System_using_Face_Recognition-181717?logo=github&logoColor=white)](https://github.com/ramprasathmk/Automatic-Attendance-System-using-Face-Recognition)
 - [![Repo](https://img.shields.io/badge/-Soft_Computing_Lab_Exercises-181717?logo=github&logoColor=white)](https://github.com/ramprasathmk/Soft-Computing-Lab-Exercises)
 - [![Repo](https://img.shields.io/badge/-Ride_Share-181717?logo=github&logoColor=white)](https://github.com/ramprasathmk/Ride-Share)
 - [![Repo](https://img.shields.io/badge/-Simple_Python_Music_Player-181717?logo=github&logoColor=white)](https://github.com/ramprasathmk/Simple-Python-Music-Player)
