@@ -1,5 +1,11 @@
 # Hi there 👋, I'm Ramprasath MK
 
+<!-- 
+  * Simple is better than complex!
+  * Now is better than never
+  * Readability counts
+-->
+
 [AAMEC]: https://www.aamec.edu.in/
 
 ## 🚀 About Me
