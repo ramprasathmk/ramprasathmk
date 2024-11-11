@@ -13,6 +13,10 @@
 - I'm a passionate Fullstack Developer with experience (intermediate) in building web applications using modern technologies. 💡
 - I'm always eager to learn and experiment with new tools and technologies. ✨
 
+
+## ✍ Dev Quotes
+- _`Live and learn.`_
+
 <!-- For more Icons, refer this link: `https://github.com/inttter/md-badges` -->
 
 
