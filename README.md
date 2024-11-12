@@ -15,7 +15,7 @@
 
 
 ## ✍ Dev Quotes
-- _`Live and learn.`_
+- "Live and learn"
 
 <!-- For more Icons, refer this link: `https://github.com/inttter/md-badges` -->
 
