@@ -15,7 +15,7 @@
 
 
 ## ✍ Dev Quotes
-- _`Live and learn.`_
+- "Live and learn"
 
 
 ## 📅 Daily Routine
