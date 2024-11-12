@@ -17,6 +17,15 @@
 ## ✍ Dev Quotes
 - _`Live and learn.`_
 
+
+## 📅 Daily Routine
+```python
+   while True:
+       Learn()
+       Code()
+       Sleep()
+```
+
 <!-- For more Icons, refer this link: `https://github.com/inttter/md-badges` -->
 
 
