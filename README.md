@@ -23,7 +23,8 @@
    while True:
        Learn()
        Code()
-       Sleep()
+   else:
+       Coffee()
 ```
 
 <!-- For more Icons, refer this link: `https://github.com/inttter/md-badges` -->
