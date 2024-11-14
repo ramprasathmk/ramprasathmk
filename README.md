@@ -8,6 +8,8 @@
 
 [AAMEC]: https://www.aamec.edu.in/
 
+[![](https://visitcount.itsvg.in/api?id=ramprasathmk&icon=6&color=10)](https://visitcount.itsvg.in)
+
 ## 🚀 About Me
 - I'm currently pursuing my Bachelor's in **Information Technology** at [**AAMEC**][AAMEC]. 🎓
 - I'm a passionate Fullstack Developer with experience (intermediate) in building web applications using modern technologies. 💡
@@ -67,9 +69,11 @@
 
 
 ## 🎲 My GitHub Stats
-![Ramprasath MK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=dark&show_icons=true&&hide=issues,contribs)
+![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=dark&show_icons=true&&hide=issues,contribs)
 
-![Ramprasath MK's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=react-dark)
+![Ramprasath MK's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=react-dark)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🔗 Stay Tuned
