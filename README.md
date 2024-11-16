@@ -2,6 +2,7 @@
 
 <!-- 
   * Simple is better than complex!
+  * Complex is better than complicated
   * Now is better than never
   * Readability counts
 -->
