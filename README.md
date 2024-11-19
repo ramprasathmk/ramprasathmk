@@ -9,7 +9,7 @@
 
 [AAMEC]: https://www.aamec.edu.in/
 
-[![](https://visitcount.itsvg.in/api?id=ramprasathmk&icon=6&color=10)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ramprasathmk&icon=6&color=1)](https://visitcount.itsvg.in)
 
 ## 🚀 About Me
 - I'm currently pursuing my Bachelor's in **Information Technology** at [**AAMEC**][AAMEC]. 🎓
