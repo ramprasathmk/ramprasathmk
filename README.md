@@ -1,4 +1,4 @@
-# Hello World! 👋, I'm Ramprasath MK
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AF69EF&size=35&center=true&vCenter=true&width=1000&lines=Hi,👋+I'm+Ramprasath+MK;I'm+from+India;I'm+22+years+old;Welcome+to+my+profile!&font=JetBrains+Mono)
 
 <!-- 
   * Simple is better than complex!
