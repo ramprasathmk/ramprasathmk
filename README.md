@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=AF69EF&size=35&center=true&vCenter=true&width=1000&lines=Hi,👋+I'm+Ramprasath+MK;Welcome+to+my+profile😊!&font=JetBrains+Mono)
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?color=AF69EF&size=35&center=true&vCenter=true&width=1000&lines=Hi,👋+I'm+Ramprasath+MK;Welcome+to+my+profile😊!&font=JetBrains+Mono)
 
 <!-- 
   * Simple is better than complex!
@@ -9,7 +9,7 @@
 
 [AAMEC]: https://www.aamec.edu.in/
 
-[![](https://visitcount.itsvg.in/api?id=ramprasathmk&icon=6&color=1)](https://visitcount.itsvg.in)
+[![Profile Views Count](https://visitcount.itsvg.in/api?id=ramprasathmk&icon=6&color=1)](https://visitcount.itsvg.in)
 
 ## 🚀 About Me
 - I'm currently pursuing my Bachelor's in **Information Technology** at [**AAMEC**][AAMEC]. 🎓
