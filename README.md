@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?color=AF69EF&size=35&center=true&vCenter=true&width=1000&lines=Hi,👋+I'm+Ramprasath+MK;Welcome+to+my+profile😊!&font=JetBrains+Mono)
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?color=AF69EF&size=35&center=true&vCenter=true&width=1000&lines=Hi,👋+I'm+Ramprasath+M+K;Welcome+to+my+profile😊!&font=JetBrains+Mono)
 
 <!-- 
   * Simple is better than complex!
