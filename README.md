@@ -71,7 +71,7 @@
 
 
 ## 🎲 My GitHub Stats
-![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=dark&show_icons=true&&hide=issues,contribs)
+![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=dark&show_icons=true)
 
 ![Ramprasath MK's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=react-dark)
 
