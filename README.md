@@ -19,6 +19,7 @@
 
 ## ✍ Dev Quotes
 - "Live and learn"
+- "It's not a bug 🐞, it's a feature 🧾"
 
 
 ## 📅 Daily Routine
