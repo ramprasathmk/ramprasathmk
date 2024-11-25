@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 - I'm currently pursuing my Bachelor's in **Information Technology** at [**AAMEC**][AAMEC]. 🎓
-- I'm a passionate Fullstack Developer with experience (intermediate) in building web applications using modern technologies. 💡
+- I'm a passionate Web Developer (intermediate) in building web applications using modern technologies. 💡
 - I'm always eager to learn and experiment with new tools and technologies. ✨
 
 ## 🌐 Socials
@@ -45,11 +45,13 @@
 
 
 ## 👨‍💻 Projects Created
-- [![Repo](https://img.shields.io/badge/-Automatic_Attendance_System_using_Face_Recognition-181717?logo=github&logoColor=white)](https://github.com/ramprasathmk/Automatic-Attendance-System-using-Face-Recognition)
-- [![Repo](https://img.shields.io/badge/-Soft_Computing_Lab_Exercises-181717?logo=github&logoColor=white)](https://github.com/ramprasathmk/Soft-Computing-Lab-2024)
-- [![Repo](https://img.shields.io/badge/-Ride_Share-181717?logo=github&logoColor=white)](https://github.com/ramprasathmk/Ride-Share)
-- [![Repo](https://img.shields.io/badge/-Simple_Python_Music_Player-181717?logo=github&logoColor=white)](https://github.com/ramprasathmk/Simple-Python-Music-Player)
-- [![Repo](https://img.shields.io/badge/-Software_Personnel_Management_System-181717?logo=github&logoColor=white)](https://github.com/ramprasathmk/Software-Personnel-Management-System)
+- [Simple Python Music Player](https://github.com/ramprasathmk/Simple-Python-Music-Player)
+- [Automatic Attendance System using Face Recognition](https://github.com/ramprasathmk/Automatic-Attendance-System-using-Face-Recognition)
+- [Software Personnel Management System](https://github.com/ramprasathmk/Software-Personnel-Management-System)
+- [Keylogger](https://github.com/ramprasathmk/keylogger)
+- [Ride Share](https://github.com/ramprasathmk/Ride-Share)
+- [Microblog App](https://github.com/ramprasathmk/microblog-app)
+- [Poet App](https://github.com/ramprasathmk/poet-app)
 
 
 ## 🧩 My LeetCode Stats
@@ -68,7 +70,7 @@ Thanks for visiting my profile! Feel free to explore [my repositories](https://g
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
 
-![Waving Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling)
+<!-- ![Waving Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling) -->
 
 
 <!---
