@@ -64,6 +64,10 @@
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+## 🐍 Sanke Game
+![snake animation](https://github.com/ramprasathmk/blob/output/github-contribution-grid-snake2.svg)
+
+
 ## 🤝 Show your support
 
 Thanks for visiting my profile! Feel free to explore [my repositories](https://github.com/ramprasathmk?tab=repositories) and ❤️ connect with me!
