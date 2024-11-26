@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 - I'm currently pursuing my Bachelor's in **Information Technology** at [**AAMEC**][AAMEC]. 🎓
-- I'm a passionate Web Developer (intermediate) in building web applications using modern technologies. 💡
+- I'm a Web Developer (intermediate) in building web applications using modern technologies. 💡
 - I'm always eager to learn and experiment with new tools and technologies. ✨
 
 ## 🌐 Socials
