@@ -1,3 +1,4 @@
-
-.vscode
+# Ignore the respective directories and files
+.git
 .idea
+.vscode
