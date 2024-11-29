@@ -41,7 +41,7 @@
 
 
 ## 🛠 Languages and Tools
-[![Skills and Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm,eclipse,java,py,js,bootstrap,md,mongodb,express,react,nodejs&theme=light)](https://skillicons.dev)
+[![Skills and Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm,eclipse,java,py,js,bootstrap,md,mongodb,express,react,nodejs,vite&theme=light&perline=8)](https://skillicons.dev)
 
 
 ## 👨‍💻 Projects Created
