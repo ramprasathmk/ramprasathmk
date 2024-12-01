@@ -9,6 +9,10 @@
 
 [AAMEC]: https://www.aamec.edu.in/
 
+<div align="center"> 
+  <img width="140px" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Luffy Gif" />
+</div>
+
 <!-- [![Profile Views Count](https://visitcount.itsvg.in/api?id=ramprasathmk&icon=6&color=1)](https://visitcount.itsvg.in) -->
 
 ## 🚀 About Me
