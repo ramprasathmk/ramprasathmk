@@ -43,11 +43,15 @@
        Coffee()
 ```
 
-<!-- For more Icons, refer this link: `https://github.com/inttter/md-badges` -->
+<!-- For more Icons, refer these link: 
+  - `https://github.com/inttter/md-badges` 
+  - `https://skillicons.dev`
+  - `https://github.com/marwin1991/profile-technology-icons/blob/main/README.md`
+  - -->
 
 
 ## 🛠 Languages and Tools
-[![Skills and Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm,eclipse,java,py,js,bootstrap,md,mongodb,express,react,nodejs,vite&theme=light&perline=8)](https://skillicons.dev)
+[![Skills and Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm,eclipse,java,mysql,py,bootstrap,js,npm,mongodb,express,react,nodejs,vite)](https://skillicons.dev)
 
 
 ## 👨‍💻 Projects Created
