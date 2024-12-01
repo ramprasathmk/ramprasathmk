@@ -64,14 +64,13 @@
 - [Poet App](https://github.com/ramprasathmk/poet-app)
 
 
-## 🧩 My LeetCode Stats
+## 🧩 LeetCode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ramprasathmk?ext=contest&theme=dark)](https://leetcode.com/u/ramprasathmk/)
 
 
-## 🎲 My GitHub Stats
-![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=dark&show_icons=true)
+## 🎲 GitHub Stats
+![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=dark&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![Ramprasath MK's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=react-dark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 ## 🐍 Sanke Game
