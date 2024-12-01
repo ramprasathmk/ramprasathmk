@@ -31,7 +31,7 @@
 ## ✍ Dev Quotes
 - "Live and learn"
 - "It's not a bug 🐞, it's a feature 🧾"
-- "A myth is a myth until you experiencing it"
+- "A myth is a myth until you experience it"
 
 
 ## 📅 Daily Routine
