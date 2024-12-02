@@ -10,7 +10,7 @@
 [AAMEC]: https://www.aamec.edu.in/
 
 <div align="center"> 
-  <img width="140px" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Luffy Gif" />
+  <img style='border-radius:25px;border: 1px solid cyan;' width="140px" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Luffy Gif" />
 </div>
 
 <!-- [![Profile Views Count](https://visitcount.itsvg.in/api?id=ramprasathmk&icon=6&color=1)](https://visitcount.itsvg.in) -->
@@ -55,7 +55,11 @@
 
 
 ## 🛠 Languages and Tools
-[![Skills and Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm,eclipse,java,mysql,py,bootstrap,js,npm,mongodb,express,react,nodejs,vite)](https://skillicons.dev)
+<div align="center">
+
+  [![Skills and Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm,eclipse,java,mysql,py,npm,mongodb,express,react,nodejs,vite)](https://skillicons.dev)
+
+</div>
 
 
 ## 👨‍💻 Projects Created
