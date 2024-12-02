@@ -5,19 +5,20 @@
   * Complex is better than complicated
   * Now is better than never
   * Readability counts
+  * One is greater than Zero
 -->
 
 [AAMEC]: https://www.aamec.edu.in/
 
 <div align="center"> 
-  <img style='border-radius:25px;border: 1px solid cyan;' width="140px" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Luffy Gif" />
+  <img style='border-radius:25px;border: 1rem solid #AF69EF;' width="140px" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Luffy Gif" />
 </div>
 
 <!-- [![Profile Views Count](https://visitcount.itsvg.in/api?id=ramprasathmk&icon=6&color=1)](https://visitcount.itsvg.in) -->
 
 ## 🚀 About Me
 - I'm currently pursuing my Bachelor's in **Information Technology** at [**AAMEC**][AAMEC]. 🎓
-- I'm a Web Developer (intermediate) in building web applications using modern technologies. 💡
+- I'm a Web Developer in building web applications using modern technologies. 💡
 - I'm always eager to learn and experiment with new tools and technologies. ✨
 
 
@@ -56,9 +57,20 @@
 
 ## 🛠 Languages and Tools
 <div align="center">
-
-  [![Skills and Tools](https://skillicons.dev/icons?i=docker,git,github,vscode,pycharm,eclipse,java,mysql,py,npm,mongodb,express,react,nodejs,vite)](https://skillicons.dev)
-
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/192108892-6e9b5cdf-4e35-4a70-ad9a-801a93a07c1c.png" alt="eclipse" title="eclipse"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" alt="Java" title="Java"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="Python" title="Python"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+	<img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/>
+	<img width="50" src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Vite" title="Vite"/>
 </div>
 
 
@@ -93,7 +105,7 @@
 
 Thanks for visiting my profile! Feel free to explore [my repositories](https://github.com/ramprasathmk?tab=repositories) and ❤️ connect with me!
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#)
+<!-- [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#) -->
 
 ![Waving Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling)
 
