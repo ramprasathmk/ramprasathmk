@@ -11,7 +11,7 @@
 [AAMEC]: https://www.aamec.edu.in/
 
 <div align="center"> 
-  <img style='border-radius:25px;border: 1rem solid #AF69EF;' width="140px" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Luffy Gif" />
+  <img style="border-radius:25px;border: 1rem solid #AF69EF;" width="140px" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Luffy Gif" />
 </div>
 
 <!-- [![Profile Views Count](https://visitcount.itsvg.in/api?id=ramprasathmk&icon=6&color=1)](https://visitcount.itsvg.in) -->
