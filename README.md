@@ -27,10 +27,7 @@
 
 
 ## 🌐 Socials
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ramprasathmk)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramprasathmk053)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ramprasathmk)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramprasathmk_)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ramprasathmk) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramprasathmk053) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ramprasathmk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramprasathmk_)
 
 
 ## ✍ Dev Quotes
@@ -83,6 +80,7 @@
 - [Ride Share](https://github.com/ramprasathmk/Ride-Share)
 - [Microblog App](https://github.com/ramprasathmk/microblog-app)
 - [Poet App](https://github.com/ramprasathmk/poet-app)
+- [Flask GitHub Actions Demo](https://github.com/ramprasathmk/flask-github-actions-demo)
 
 
 ## 📝 Contributions
