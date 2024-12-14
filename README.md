@@ -96,7 +96,7 @@
 ![Ramprasath MK's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=react-dark)
 
 
-## 🐍 Sanke Game
+## 🐍 Snake Game
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramprasathmk/ramprasathmk/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramprasathmk/ramprasathmk/output/github-snake.svg" />
