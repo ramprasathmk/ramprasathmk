@@ -88,6 +88,8 @@
 
 
 ## 🧩 LeetCode Stats
+- [LeetCode Solutions](https://github.com/ramprasathmk/LeetCode)
+
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ramprasathmk?ext=contest&theme=dark)](https://leetcode.com/u/ramprasathmk/)
 
 
