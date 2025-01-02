@@ -35,7 +35,7 @@
 - "It's not a bug 🐞, it's a feature 🧾"
 - "A myth is a myth until you experience it"
 
-
+<!--
 ## 📅 Daily Routine
 ```python
    while True:
@@ -43,7 +43,7 @@
        Code()
    else:
        Coffee()
-```
+``` -->
 
 <!-- For more Icons, refer these link: 
   - `https://github.com/inttter/md-badges` 
