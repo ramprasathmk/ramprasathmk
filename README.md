@@ -23,7 +23,7 @@
 
 
 ## 👇 Visit My Portfolio
-- [Website](https://ramprasathmk.github.io/Portfolio)
+- [Portfolio](https://ramprasathmk.github.io/Portfolio)
 
 
 ## 🌐 Socials
@@ -83,7 +83,7 @@
 - [Flask GitHub Actions Demo](https://github.com/ramprasathmk/flask-github-actions-demo)
 
 
-## 📱 Recent Deployments
+## 📱 Deployments
 - [Portfolio](https://ramprasathmk.github.io/Portfolio/)
 - [Poet App](https://poet-app.onrender.com/)
 
@@ -112,7 +112,7 @@
 
 
 ## 🤝 Show your support
- Feel free to explore [my repositories](https://github.com/ramprasathmk?tab=repositories)!
+ Feel free to explore [my repositories](https://github.com/ramprasathmk?tab=repositories) :)
 
 <!-- [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#) -->
 
