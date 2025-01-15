@@ -72,7 +72,7 @@
 </div>
 
 
-## 👨‍💻 Projects Created
+## 👨‍💻 Projects
 - [Simple Python Music Player](https://github.com/ramprasathmk/Simple-Python-Music-Player)
 - [Automatic Attendance System using Face Recognition](https://github.com/ramprasathmk/Automatic-Attendance-System-using-Face-Recognition)
 - [Software Personnel Management System](https://github.com/ramprasathmk/Software-Personnel-Management-System)
