@@ -1,4 +1,4 @@
-![Typing Animation](https://readme-typing-svg.herokuapp.com/?color=AF69EF&size=35&center=true&vCenter=true&width=1000&lines=Hi,👋+I'm+Ramprasath+M+K;Welcome+to+my+profile😊!&font=JetBrains+Mono)
+![Typing Animation](https://readme-typing-svg.herokuapp.com/?color=AF69EF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!&font=JetBrains+Mono)
 
 <!-- 
   * Simple is better than complex!
@@ -10,46 +10,21 @@
 
 [AAMEC]: https://www.aamec.edu.in/
 
-<div align="center"> 
-  <img style="border-radius:25px;border: 1rem solid #AF69EF;" width="140px" src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" alt="Luffy Gif" />
-</div>
-
-<!-- [![Profile Views Count](https://visitcount.itsvg.in/api?id=ramprasathmk&icon=6&color=1)](https://visitcount.itsvg.in) -->
 
 ## 🚀 About Me
-- I'm currently pursuing my Bachelor's in **Information Technology** at [**AAMEC**][AAMEC]. 🎓
-- I'm a Web Developer in building web applications using modern technologies. 💡
-- I'm always eager to learn and experiment with new tools and technologies. ✨
-
-
-## 👇 Visit My Portfolio
-- [Portfolio](https://ramprasathmk.github.io/Portfolio)
+- Currently pursuing Bachelor's 🎓 at [AAMEC][AAMEC]. 
+- Building web apps using modern techs and familiar tools. 
+- Explore the [Portfolio](https://ramprasathmk.github.io/Portfolio). 
 
 
 ## 🌐 Socials
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ramprasathmk) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramprasathmk053) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ramprasathmk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramprasathmk_)
 
 
-## ✍ Dev Quotes
-- "Live and learn"
-- "It's not a bug 🐞, it's a feature 🧾"
-- "A myth is a myth until you experience it"
-
-<!--
-## 📅 Daily Routine
-```python
-   while True:
-       Learn()
-       Code()
-   else:
-       Coffee()
-``` -->
-
 <!-- For more Icons, refer these link: 
-  - `https://github.com/inttter/md-badges` 
-  - `https://skillicons.dev`
-  - `https://github.com/marwin1991/profile-technology-icons/blob/main/README.md`
-  - -->
+  * `https://github.com/inttter/md-badges` 
+  * `https://skillicons.dev`
+  * `https://github.com/marwin1991/profile-technology-icons/blob/main/README.md` -->
 
 
 ## 🛠 Languages and Tools
@@ -113,10 +88,6 @@
 
 ## 🤝 Show your support
  Feel free to explore [my repositories](https://github.com/ramprasathmk?tab=repositories) :)
-
-<!-- [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?&logo=buy-me-a-coffee&logoColor=black)](#) -->
-
-<!-- ![Waving Animation](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=170&section=footer&fontSize=42&fontColor=fff&animation=twinkling) -->
 
 
 <!---
