@@ -9,7 +9,7 @@
 -->
 
 [AAMEC]: https://www.aamec.edu.in/
-
+[web]: https://ramprasathmk.github.io/Portfolio/
 
 ## 🚀 About Me
 - Currently pursuing Bachelor's 🎓 at [AAMEC][AAMEC]. 
@@ -59,8 +59,7 @@
 
 
 ## 📱 Deployed Projects
-- ## 📱 Deployments
-- [Portfolio](https://ramprasathmk.github.io/Portfolio/)
+- [Portfolio][web]
 - [Poet App](https://github.com/ramprasathmk/poet-app/)
 
 
