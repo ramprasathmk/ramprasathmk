@@ -58,9 +58,10 @@
 - [Flask GitHub Actions Demo](https://github.com/ramprasathmk/flask-github-actions-demo)
 
 
-## 📱 Deployments
+## 📱 Deployed Projects
+- ## 📱 Deployments
 - [Portfolio](https://ramprasathmk.github.io/Portfolio/)
-- [Poet App](https://poet-app.onrender.com/)
+- [Poet App](https://github.com/ramprasathmk/poet-app/)
 
 
 ## 📝 Contributions
@@ -87,7 +88,7 @@
 
 
 ## 🤝 Show your support
- Feel free to explore [my repositories](https://github.com/ramprasathmk?tab=repositories) :)
+ Feel free to like, fork and explore [my repos](https://github.com/ramprasathmk?tab=repositories) 😉
 
 
 <!---
