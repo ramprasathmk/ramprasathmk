@@ -47,26 +47,6 @@
 </div>
 
 
-## 👨‍💻 Projects
-- [Simple Python Music Player](https://github.com/ramprasathmk/Simple-Python-Music-Player)
-- [Automatic Attendance System using Face Recognition](https://github.com/ramprasathmk/Automatic-Attendance-System-using-Face-Recognition)
-- [Software Personnel Management System](https://github.com/ramprasathmk/Software-Personnel-Management-System)
-- [Keylogger](https://github.com/ramprasathmk/keylogger)
-- [Ride Share](https://github.com/ramprasathmk/Ride-Share)
-- [Microblog App](https://github.com/ramprasathmk/microblog-app)
-- [Poet App](https://github.com/ramprasathmk/poet-app)
-- [Flask GitHub Actions Demo](https://github.com/ramprasathmk/flask-github-actions-demo)
-
-
-## 📱 Deployed Projects
-- [Portfolio][web]
-- [Poet App](https://github.com/ramprasathmk/poet-app/)
-
-
-## 📝 Contributions
-- [Employee Management System](https://github.com/tamil368/sid)
-
-
 ##  LeetCode Stats
 - [LeetCode Solutions](https://github.com/ramprasathmk/LeetCode)
 
