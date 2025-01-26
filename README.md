@@ -1,31 +1,17 @@
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?color=AF69EF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!&font=JetBrains+Mono)
 
-<!-- 
-  * Simple is better than complex!
-  * Complex is better than complicated
-  * Now is better than never
-  * Readability counts
-  * One is greater than Zero
--->
-
 [AAMEC]: https://www.aamec.edu.in/
-[web]: https://ramprasathmk.github.io/Portfolio/
 
 ## 🚀 About Me
 - Currently pursuing Bachelor's 🎓 at [AAMEC][AAMEC]. 
-- Building web apps using modern techs and familiar tools. 
-- Explore the [Portfolio](https://ramprasathmk.github.io/Portfolio). 
-
-
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/q7WcvEaN) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramprasathmk053) [![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/ramprasathmk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramprasathmk_)
-
+- Learnt something to build on my own. 
+- Last but not least.
 
 <!-- For more Icons, refer these link: 
-  * `https://github.com/inttter/md-badges` 
-  * `https://skillicons.dev`
-  * `https://github.com/marwin1991/profile-technology-icons/blob/main/README.md` -->
-
+  *  `https://github.com/inttter/md-badges` 
+  *  `https://skillicons.dev` 
+  *  `https://github.com/marwin1991/profile-technology-icons/blob/main/README.md` 
+  *  -->
 
 ## 🛠 Languages and Tools
 <div align="center">
@@ -46,29 +32,21 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 </div>
 
-
 ##  LeetCode Stats
-- [LeetCode Solutions](https://github.com/ramprasathmk/LeetCode)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/ramprasathmk?ext=contest&theme=dark)](https://leetcode.com/u/ramprasathmk/)
 
-
 ## 🎲 GitHub Stats
-![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=dark&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![Ramprasath MK's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=react-dark)
 
+![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=dark&show_icons=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![Ramprasath MK's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=xcode)
 
 ## 🐍 Snake Game
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ramprasathmk/ramprasathmk/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ramprasathmk/ramprasathmk/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ramprasathmk/ramprasathmk/output/github-snake.svg" />
 </picture>
-
-
-## 🤝 Show your support
- Feel free to like, fork and explore [my repos](https://github.com/ramprasathmk?tab=repositories) 😉
-
 
 <!---
 ramprasathmk/ramprasathmk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
