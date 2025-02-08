@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - Currently pursuing Bachelor's 🎓 at [AAMEC][AAMEC]. 
-- Learnt something to build on my own. 
+- Learning stuffs to build on my own. 
 - Last but not least. 
 
 ## 🛠 Languages and Tools
