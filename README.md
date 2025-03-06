@@ -10,9 +10,11 @@
 
 ## 🚀 About Me
 
-- Currently pursuing Bachelor's 🎓 at [AAMEC][AAMEC]. 
-- Learning stuffs to build on my own. 
-- Last but not least. 
+- 🌱 I’m currently pursuing Bachelor's Degree🎓at [AAMEC][AAMEC]. 
+- 👯 I’m looking to collaborate on web technologies. 
+- 📫 How to reach me: [@X](https://x.com/ramprasathmk/) [@LinkedIn](https://www.linkedin.com/in/ramprasathmk12/) 
+- 😄 Pronouns: He/Him 
+- ⚡ Fun fact: **There’s a planet made of diamonds** 
 
 ## 🛠 Languages and Tools
 
@@ -33,7 +35,7 @@
 
 ##  LeetCode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/ramprasathmk?theme=unicorn&hide=ranking,easy-solved-count,medium-solved-count,hard-solved-count)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ramprasathmk?theme=dark&hide=ranking&hide_border=true&font=Anek%20Bangla&ext=heatmap)
 
 ## 🎲 GitHub Stats
 ![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=monokai&show_icons=true&hide_border=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
