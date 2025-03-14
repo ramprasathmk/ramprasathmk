@@ -5,12 +5,14 @@
   *  -->
 
 [AAMEC]: https://www.aamec.edu.in
+[go]: https://go.dev/
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?color=AF69EF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!&font=JetBrains+Mono)
 
 ## 🚀 About Me
 
-- 🌱 I’m currently pursuing Bachelor's Degree🎓at [AAMEC][AAMEC]. 
+- 🔭 I’m currently pursuing Bachelor's Degree🎓at [AAMEC][AAMEC]. 
+- 🌱 I'm currently learning [GoLang][go]. 
 - 👯 I’m looking to collaborate on web technologies. 
 - 📫 How to reach me: [@X](https://x.com/ramprasathmk/) [@LinkedIn](https://www.linkedin.com/in/ramprasathmk12/) 
 - 😄 Pronouns: He/Him 
@@ -26,16 +28,16 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code>
+	<!-- <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flask.png" alt="Flask" title="Flask"/></code>
+	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" alt="Node.js" title="Node.js"/></code> -->
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code>
+	<!-- <code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" alt="mongoDB" title="mongoDB"/></code> -->
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/></code>
 </div>
 
-##  LeetCode Stats
+<!-- ##  LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/ramprasathmk?theme=dark&hide=ranking&hide_border=true&font=Anek%20Bangla&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/ramprasathmk?theme=dark&hide=ranking&hide_border=true&font=Anek%20Bangla&ext=heatmap) -->
 
 ## 🎲 GitHub Stats
 ![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=monokai&show_icons=true&hide_border=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
