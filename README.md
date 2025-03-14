@@ -16,7 +16,7 @@
 - 👯 I’m looking to collaborate on web technologies. 
 - 📫 How to reach me: [@X](https://x.com/ramprasathmk/) [@LinkedIn](https://www.linkedin.com/in/ramprasathmk12/) 
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: **There’s a planet made of diamonds** 
+- ⚡ Fun fact: **There’s a Planet Made of Diamonds** 
 
 ## 🛠 Languages and Tools
 
