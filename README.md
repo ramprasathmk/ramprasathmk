@@ -14,7 +14,7 @@
 - 🔭 I’m currently pursuing Bachelor's Degree🎓at [AAMEC][AAMEC]. 
 - 🌱 I'm currently learning [GoLang][go]. 
 - 👯 I’m looking to collaborate on web technologies. 
-- 📫 How to reach me: @[X](https://x.com/ramprasathmk/) @[LinkedIn](https://www.linkedin.com/in/ramprasathmk12/) @[Reddit](https://www.reddit.com/user/ramprasathmk/) 
+- 📫 How to reach me: loading... 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: **There’s a Planet Made of Diamonds** 
 
