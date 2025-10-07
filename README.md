@@ -11,10 +11,10 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently pursuing Bachelor's Degree🎓at [AAMEC][AAMEC]. 
-- 🌱 I'm currently learning [GoLang][go]. 
+- 🔭 I’m completed my Bachelor's Degree🎓. 
+- 🌱 I'm currently building stuffs for my own purpose. 
 - 👯 I’m looking to collaborate on web technologies. 
-- 📫 How to reach me: loading... 
+- 📫 How to reach me: not yet configured, lol. 
 - 😄 Pronouns: He/Him 
 - ⚡ Fun fact: **There’s a Planet Made of Diamonds** 
 
