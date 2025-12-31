@@ -36,9 +36,8 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/></code>
 </div>
 
-<!-- ##  LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ramprasathmk?theme=dark&hide=ranking&hide_border=true&font=Anek%20Bangla&ext=heatmap) -->
+## 🎯 LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/ramprasathmk?theme=nord&hide=ranking&hide_border=true&font=Red%20Hat%20Mono&ext=heatmap)
 
 ## 🎲 GitHub Stats
 ![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=monokai&show_icons=true&hide_border=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
