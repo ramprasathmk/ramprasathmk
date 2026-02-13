@@ -48,10 +48,6 @@
 
 ---
 
-![My GitHub Game](game.gif)
-
----
-
 ![Ramprasath MK's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=monokai&hide_border=true)
 
 
