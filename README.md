@@ -48,7 +48,7 @@
 
 ---
 
-![My Game](https://raw.githubusercontent.com/ramprasathmk/ramprasthmk/shooter_game/game.gif)
+![My Game](https://raw.githubusercontent.com/ramprasathmk/ramprasthmk/output/game.gif)
 
 ---
 
