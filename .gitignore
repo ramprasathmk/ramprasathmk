@@ -2,3 +2,7 @@
 .git
 .idea
 .vscode
+
+# Ignore Animation out directories
+game.gif
+dist/

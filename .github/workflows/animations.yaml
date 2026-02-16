@@ -12,13 +12,12 @@ permissions:
   contents: write
 
 jobs:
-    # Job 1
+
+  # Job 1: Snake
   snake:
-    name: Generate Snake Animation
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Generate GitHub Contributions Snake
         uses: Platane/snk@v3
@@ -37,25 +36,19 @@ jobs:
           name: snake-assets
           path: dist/snake
 
-  # Job 2
+
+  # Job 2: Shooter
   shooter:
-    name: Generate Space Shooter Game
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repository
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
       - name: Generate shooter game
         uses: czl9707/gh-space-shooter@v1
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: game.gif
+          output-path: dist/shooter/game.gif
           strategy: random
-
-      - name: Prepare shooter folder
-        run: |
-          mkdir -p dist/shooter
-          mv game.gif dist/shooter/
 
       - name: Upload shooter artifacts
         uses: actions/upload-artifact@v4
@@ -63,8 +56,9 @@ jobs:
           name: shooter-assets
           path: dist/shooter
 
+
+  # Job 3: Deploy
   deploy:
-    name: Deploy to GitHub Pages (output branch)
     needs: [snake, shooter]
     runs-on: ubuntu-latest
     steps:
