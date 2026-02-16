@@ -44,7 +44,7 @@
 
 ---
 
-![Snake Game](https://ramprasathmk.github.io/ramprasathmk/snake/github-snake.svg)s
+![Snake Game](https://ramprasathmk.github.io/ramprasathmk/snake/github-snake.svg)
 
 ---
 
