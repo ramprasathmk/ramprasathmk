@@ -43,17 +43,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Prepare dist folder
+        run: |
+          mkdir -p dist/shooter
+
       - name: Generate shooter game
         uses: ramprasathmk/gh-space-shooter@v2
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           output-path: dist/shooter/game.gif
           strategy: random
-
-      - name: Prepare dist folder
-        run: |
-          mkdir -p dist/shooter
-          mv game.gif dist/shooter/game.gif
 
       - name: Upload shooter artifacts
         uses: actions/upload-artifact@v4
