@@ -44,11 +44,11 @@
 
 ---
 
-![Contributions](https://raw.githubusercontent.com/ramprasathmk/ramprasathmk/output/github-snake.svg)
+![Snake Game](https://ramprasathmk.github.io/ramprasathmk/snake/github-snake.svg)s
 
 ---
 
-![My Game](https://raw.githubusercontent.com/ramprasathmk/ramprasthmk/output/game.gif)
+![Shooter Game](https://ramprasathmk.github.io/ramprasathmk/shooter/game.gif)
 
 ---
 
