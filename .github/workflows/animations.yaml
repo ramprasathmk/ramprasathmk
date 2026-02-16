@@ -43,6 +43,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Create separate folders
+        run: |
+          mkdir -p dist/snake
+          mkdir -p dist/shooter
+
       - name: Generate shooter game
         uses: czl9707/gh-space-shooter@v1
         with:
