@@ -47,12 +47,6 @@ jobs:
           name: snake-assets
           path: dist/snake
 
-      - name: Download shooter assets
-        uses: actions/download-artifact@v4
-        with:
-          name: shooter-assets
-          path: dist/shooter
-
       - name: Deploy all animations
         uses: peaceiris/actions-gh-pages@v3
         with:
