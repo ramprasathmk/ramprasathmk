@@ -44,11 +44,7 @@
 
 ---
 
-![Snake Game](https://ramprasathmk.github.io/ramprasathmk/snake/github-snake.svg)
-
----
-
-![Shooter Game](https://ramprasathmk.github.io/ramprasathmk/shooter/game.gif)
+![Contributions](https://ramprasathmk.github.io/ramprasathmk/snake/github-snake.svg)
 
 ---
 

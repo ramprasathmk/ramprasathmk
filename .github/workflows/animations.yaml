@@ -36,34 +36,9 @@ jobs:
           name: snake-assets
           path: dist/snake
 
-
-  # Job 2: Shooter
-  shooter:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-
-      - name: Prepare dist folder
-        run: |
-          mkdir -p dist/shooter
-
-      - name: Generate shooter game
-        uses: ramprasathmk/gh-space-shooter@v2
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: dist/shooter/game.gif
-          strategy: random
-
-      - name: Upload shooter artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: shooter-assets
-          path: dist/shooter
-
-
-  # Job 3: Deploy
+  # Job 2: Deploy
   deploy:
-    needs: [snake, shooter]
+    needs: [snake]
     runs-on: ubuntu-latest
     steps:
       - name: Download snake assets
