@@ -1,0 +1,89 @@
+name: Profile Animations (Snake + Shooter)
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # Midnight IST
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+    # Job 1
+  snake:
+    name: Generate Snake Animation
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub Contributions Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake/github-snake.svg
+            dist/snake/github-snake-dark.svg?palette=github-dark
+            dist/snake/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload snake artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: snake-assets
+          path: dist/snake
+
+  # Job 2
+  shooter:
+    name: Generate Space Shooter Game
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Generate shooter game
+        uses: czl9707/gh-space-shooter@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: game.gif
+          strategy: random
+
+      - name: Prepare shooter folder
+        run: |
+          mkdir -p dist/shooter
+          mv game.gif dist/shooter/
+
+      - name: Upload shooter artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: shooter-assets
+          path: dist/shooter
+
+  deploy:
+    name: Deploy to GitHub Pages (output branch)
+    needs: [snake, shooter]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download snake assets
+        uses: actions/download-artifact@v4
+        with:
+          name: snake-assets
+          path: dist/snake
+
+      - name: Download shooter assets
+        uses: actions/download-artifact@v4
+        with:
+          name: shooter-assets
+          path: dist/shooter
+
+      - name: Deploy all animations
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: output
+          commit_message: "Update profile animations [skip ci]"
