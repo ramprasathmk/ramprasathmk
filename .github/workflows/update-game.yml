@@ -4,6 +4,10 @@ on:
   schedule:
     - cron: '30 18 * * *'  # Daily at midnight IST
   workflow_dispatch:  # Allow manual trigger
+  # Trigger the workflow on pushes to the main branch
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -25,7 +29,12 @@ jobs:
       - name: Prepare dist folder
         run: |
           mkdir -p dist
-          mv game.gif dist/
+          if [ -f game.gif ]; then
+            mv game.gif dist/
+          else
+            echo "game.gif not found!"
+            exit 1
+          fi
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
