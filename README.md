@@ -6,17 +6,46 @@
 
 ![Typing Animation](https://readme-typing-svg.herokuapp.com/?color=AF69EF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+World!&font=JetBrains+Mono)
 
-## 🚀 About Me
+## Hi there, I'm Ramprasath M K 👋
 
-- 🔭 I’m Passionate Java Stack Techiee🎓. 
-- 🌱 I'm currently building stuffs for my own purpose. 
-- 👯 I’m looking to collaborate on web technologies and open source projects. 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: **There’s a Planet Made of Diamonds** 
+Welcome to my GitHub profile! I'm a Passionate software developer with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.
 
-	[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:mkramprasath12@gmail.com) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/ramprasathmk12/)
+## 🌟 Let's Connect
 
-## 🛠 Languages and Tools
+I'm always open to collaborate with open source projects. Feel free to reach me out!
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mkramprasath12@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramprasathmk12)
+
+## 🎉 Fun Fact
+
+**There’s a Planet Made of Diamonds** 💎
+
+```ruby
+#!/usr/bin/toon
+# -*- coding: utf-8 -*-
+
+DeveloperProfile:
+	name: 		Ramprasath M K
+	location: 	Chennai, IN
+	remote: 	true
+
+	stats:
+		commits: 1119
+		repos: 20
+		reviews: 20
+
+	projects[3,]{name, lang}
+	banking-managament-system,	Java
+	poem-publisher,				Node
+	restful-web-api,			Go
+
+	openTo[3,]
+	distributed systems
+	platform engineering
+	open source collaboration
+```
+
+## 🛠 Tech Arsenal
 
 <div align="center">
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" alt="Java" title="Java"/></code>
@@ -49,11 +78,9 @@
 ## 🎲 GitHub Stats
 ![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=monokai&show_icons=true&hide_border=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
 
----
+## ✨ Contribution HeatMap & Graph
 
 ![Contributions](https://ramprasathmk.github.io/ramprasathmk/snake/github-snake.svg)
-
----
 
 ![Ramprasath MK's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramprasathmk&theme=monokai&hide_border=true)
 
