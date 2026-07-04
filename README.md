@@ -81,7 +81,7 @@ DeveloperProfile:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/ramprasathmk?theme=nord&hide=ranking&hide_border=true&font=Red%20Hat%20Mono&ext=heatmap)
 
 ## 🎲 GitHub Stats
-![Ramprasath MK's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ramprasathmk&theme=monokai&show_icons=true&hide_border=true) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ramprasathmk&theme=monokai&hide_border=true&include_all_commits=false&count_private=false&layout=compact) 
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ramprasathmk&rank_icon=github&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true) ![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ramprasathmk&layout=compact&hide_progress=true&langs_count=4&theme=monokai&hide_border=true)
 
 ## ✨ Contribution HeatMap & Graph
 
