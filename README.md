@@ -8,7 +8,7 @@
 
 ## Hi there, I'm Ramprasath M K 👋
 
-Welcome to my GitHub profile! I'm a Passionate [software developer][website] with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.
+Welcome to my GitHub profile! I'm a Passionate [Software Developer][website] with a love for creating seamless, user-friendly applications. I enjoy working on both frontend and backend technologies, and I'm always eager to learn and explore new tools and frameworks.
 
 [website]: https://ramprasathmk.github.io/Portfolio/
 
